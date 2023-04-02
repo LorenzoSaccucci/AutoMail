@@ -109,4 +109,3 @@ if people!=[]:
 
 else:
     st.warning('Registrazione non avvenuta')
-# ---
